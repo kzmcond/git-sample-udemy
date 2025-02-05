@@ -6,3 +6,10 @@ git練習中です。
 addの1回目です。
 addの2回目です。
 addの3回目です。
+
+git push -u origin main // upstreamの略(mainブランチのpush先をoriginに変更)
+次回よりgit pushだけでpushすることができる  
+
+.gitignoreの追加
+
+
